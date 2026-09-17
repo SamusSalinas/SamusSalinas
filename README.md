@@ -12,14 +12,14 @@ Soy un apasionado **Analista de Sistemas y estudiante de Ciberseguridad**, con e
 
 ## My Skills 🧠
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-badge&logo=react&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![SQL_Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-square&logo=python&logoColor=blue)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-square&logo=dotnet&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-square&logo=docker&logoColor=white)
+![SQL_Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-square&logo=microsoft-sql-server&logoColor=white)
 
 ## Proyectos Destacados 💻
 
