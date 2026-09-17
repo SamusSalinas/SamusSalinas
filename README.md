@@ -2,13 +2,13 @@
 
 ## Sobre mi 🚀
 
-Soy un apasionado **Analista de Sistemas y estudiante de Ciberseguridad**, con experiencia en **implementación de sistemas empresariales, soporte técnico IT y desarrollo Full Stack**. Me encanta resolver problemas complejos, aprender nuevas habilidades y colaborar para crear soluciones innovadoras.
+Soy un apasionado **Analista de Sistemas y estudiante de Analisis de Sistemas**, con experiencia en **implementación de sistemas empresariales, soporte técnico IT y desarrollo Full Stack**. Me encanta resolver problemas complejos, aprender nuevas habilidades y colaborar para crear soluciones innovadoras.
 
-- 🌱 Actualmente aprendiendo: **Go (Golang), desarrollo en Unity y profundizando mis habilidades en Ciberseguridad y herramientas DevOps (Docker, GitHub).**
-- 🔭 Trabajando en: **ControlFichajes.API (una aplicación backend en Python diseñada para procesar y leer registros de asistencia biométrica).**
+- 🌱 Actualmente aprendiendo: **Django, desarrollo en Unity y profundizando mis habilidades en Ciberseguridad y herramientas DevOps (Docker, GitHub).**
+- 🔭 Trabajando en: **ControlFichajes.API (una aplicación backend en .Net diseñada para procesar y leer registros de asistencia biométrica para mi Tesis).**
 - 🌍 Lenguajes: **Español (Nativo), Inglés (Técnico). Código: Python, C# (.NET), JavaScript, SQL.**
 - 📫 Cómo contactarme: **A través de mi perfil de LinkedIn o plataformas de empleo IT.**
-- ⚡ Dato curioso: **Vivo en Buenos Aires, soy aficionado a las novelas de fantasía clásica y siempre estoy en busca del mejor helado de la ciudad (especialmente Rapanui o Cremolatti).**
+- ⚡ Dato curioso: **Vivo en Buenos Aires, soy aficionado a las novelas de fantasía clásica y D&D.**
 
 ## My Skills 🧠
 
