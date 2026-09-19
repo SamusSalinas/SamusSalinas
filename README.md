@@ -32,5 +32,5 @@ Soy un apasionado **Analista de Sistemas y estudiante de Analisis de Sistemas**,
 **GestionGastos-FullStack** es una **Web de gestión de gastos personales** construida con **React, .NET y SQL Server**. Este proyecto demuestra mi habilidad para **diseñar arquitecturas Full Stack, estructurar bases de datos relacionales y conectar fluidamente la lógica del backend con la interfaz de usuario**. Puedes ver el repositorio [aquí](https://github.com/SamusSalinas/GestionGastos-FullStack.git).
 
 ## Get in Touch 📬
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 - **www.linkedin.com/in/samuel-elias-salinas-contreras-a91091240**
